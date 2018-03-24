@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.example.demo.topic.topicController.java&apos; to &apos;TopicController.java&apos;&#x0A;- Original project: &apos;course-api&apos;&#x0A;- Original element: &apos;com.example.demo.topic.topicController.java&apos;&#x0A;- Renamed element: &apos;com.example.demo.topic.TopicController.java&apos;" description="Rename compilation unit &apos;topicController.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;com.example.demo.topic{topicController.java" name="TopicController.java" references="false" stamp="1520800703014" version="1.0"/>
+</session>
